@@ -1,6 +1,6 @@
 # KampusFlow - Sistem Penjadwalan Akademik Cerdas
 
-![Mockup Aplikasi KampusFlow](https://ibb.co.com/qwDBy9y)
+![Mockup Aplikasi KampusFlow](https://raw.githubusercontent.com/rizyourbae/campus-flow/refs/heads/main/Campus%20Flow%20Logo.png)
 
 KampusFlow adalah sebuah aplikasi web yang dirancang untuk menyederhanakan dan mengotomatisasi proses penjadwalan akademik di institusi pendidikan. Dibangun dengan tumpukan teknologi modern, aplikasi ini menyediakan antarmuka yang bersih dan intuitif bagi staf akademik untuk mengelola jadwal kuliah, dosen, ruangan, dan kelas secara efisien, sambil secara proaktif mencegah terjadinya konflik jadwal.
 
